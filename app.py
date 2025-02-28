@@ -88,3 +88,7 @@ if uploaded_files:
             st.download_button("⬇️ Download", data=buffer, file_name=file.name.replace(file_extension, ext), mime=mime_type)
 
 st.success("🎉 Processing Complete!")
+
+# Footer message
+st.markdown("---")
+st.markdown("<p style='text-align: center;'>This code was created by Rabnawaz Dogar</p>", unsafe_allow_html=True)
