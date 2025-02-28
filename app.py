@@ -26,8 +26,8 @@ def set_theme():
         unsafe_allow_html=True
     )
 
-st.set_page_config(page_title="🔍🧹 Data Sweeper", layout="wide")
-st.title("🔍🧹 Advanced Data Sweeper")
+st.set_page_config(page_title="📑🧹 Data Sweeper", layout="wide")
+st.title("📑🧹 Advanced Data Sweeper")
 st.write("🧹 Convert CSV & Excel files effortlessly with data cleaning and visualization.")
 
 set_theme()
