@@ -91,4 +91,5 @@ st.success("🎉 Processing Complete!")
 
 # Footer message
 st.markdown("---")
-st.markdown("<p style='text-align: center;'>This code was created by Rabnawaz Dogar</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center;'>This code was created by Rabnawaz Dogare</p>", unsafe_allow_html=True)
+
